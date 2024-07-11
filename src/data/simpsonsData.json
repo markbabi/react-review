@@ -1,0 +1,130 @@
+[
+  {
+    "id": "c259ab43-af4e-4b8b-9c36-2a1c73be43a1",
+    "first_name": "Marge",
+    "last_name": "Simpson",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Marge_Simpson.png",
+    "catchphrases": [
+      {
+        "id": "c259ab43-af4e-4b8b-9c36-2a1c73be43a1-1",
+        "catchphrase": "Hrmmm…."
+      },
+      {
+        "id": "c259ab43-af4e-4b8b-9c36-2a1c73be43a1-2",
+        "catchphrase": "Now it's Marge's time to shine!"
+      },
+      {
+        "id": "c259ab43-af4e-4b8b-9c36-2a1c73be43a1-3",
+        "catchphrase": "Oh, Homie!"
+      }
+    ]
+  },
+  {
+    "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1",
+    "first_name": "Homer",
+    "last_name": "Simpson",
+    "image": "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png",
+    "catchphrases": [
+      {
+        "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1-1",
+        "catchphrase": "D'oh!"
+      },
+      {
+        "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1-2",
+        "catchphrase": "Woo-hoo!"
+      },
+      {
+        "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1-3",
+        "catchphrase": "Oh, Homie!"
+      },
+      {
+        "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1-4",
+        "catchphrase": "Mmm... (food)... *Drooling*"
+      },
+      {
+        "id": "ea4a7128-17bb-47f4-8054-3453a8bec1b1-5",
+        "catchphrase": "Why you little...!"
+      }
+    ]
+  },
+  {
+    "id": "362154c4-a455-4bf6-af80-3de86dfcae10",
+    "first_name": "Bart",
+    "last_name": "Simpson",
+    "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+    "catchphrases": [
+      {
+        "id": "362154c4-a455-4bf6-af80-3de86dfcae10-1",
+        "catchphrase": "Ay Caramba!"
+      },
+      {
+        "id": "362154c4-a455-4bf6-af80-3de86dfcae10-2",
+        "catchphrase": "Eat my shorts!"
+      },
+      {
+        "id": "362154c4-a455-4bf6-af80-3de86dfcae10-3",
+        "catchphrase": "I didn't do it!"
+      },
+      {
+        "id": "362154c4-a455-4bf6-af80-3de86dfcae10-4",
+        "catchphrase": "Don't have a cow, man."
+      }
+    ]
+  },
+  {
+    "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1",
+    "first_name": "Lisa",
+    "last_name": "Simpson",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/ec/Lisa_Simpson.png",
+    "catchphrases": [
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-1",
+        "catchphrase": "Bart!"
+      },
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-2",
+        "catchphrase": "If anyone wants me, I'll be in my room."
+      },
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-3",
+        "catchphrase": "Quit it, Bart!"
+      },
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-4",
+        "catchphrase": "BAAAAART!!"
+      },
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-5",
+        "catchphrase": "The truth must be told."
+      },
+      {
+        "id": "15917c36-6c4b-4b3a-9010-6222a4a2faa1-6",
+        "catchphrase": "I hope these are recyclable."
+      }
+    ]
+  },
+  {
+    "id": "e5649a43-1482-4baa-b15d-9490c7c7a0e2",
+    "first_name": "Maggie",
+    "last_name": "Simpson",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png",
+    "catchphrases": [
+      {
+        "id": "e5649a43-1482-4baa-b15d-9490c7c7a0e2-1",
+        "catchphrase": "*suck suck *"
+      },
+      {
+        "id": "e5649a43-1482-4baa-b15d-9490c7c7a0e2-2",
+        "catchphrase": "Daddy."
+      },
+      {
+        "id": "e5649a43-1482-4baa-b15d-9490c7c7a0e2-3",
+        "catchphrase": "Daddily Doodily!"
+      },
+      {
+        "id": "e5649a43-1482-4baa-b15d-9490c7c7a0e2-4",
+        "catchphrase": "Ja, ja!"
+      }
+    ]
+  }
+]
