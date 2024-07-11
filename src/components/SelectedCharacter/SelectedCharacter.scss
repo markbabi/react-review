@@ -1,0 +1,14 @@
+.selected-character {
+  background-color: yellow;
+  padding: 1rem;
+
+  &__video {
+    width: 100%;
+    height: 30vh;
+    background-color: black;
+  }
+
+  &__detail {
+    font-size: 1.2rem;
+  }
+}
